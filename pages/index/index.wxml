@@ -1,7 +1,7 @@
 <!--index.wxml-->
 <view class="container">
   <view class="banner">
-    <image src="/assets/images/banner.jpg" mode="widthFix"></image>
+    <image src="/assets/images/banner.jpg" mode="aspectFill"></image>
   </view>
   <view class="nav">
     <navigator class="li" url="/pages/person/person?id=0">
