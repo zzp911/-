@@ -1,0 +1,44 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="banner">
+    <image src="/assets/images/banner.jpg" mode="widthFix"></image>
+  </view>
+  <view class="nav">
+    <navigator class="li" url="/pages/person/person?id=0">
+      <image src="/assets/images/index_icon1.png" mode="widthFix"></image>
+      <text>菜单1</text>
+    </navigator>
+    <view class="li">
+      <image src="/assets/images/index_icon2.png" mode="widthFix"></image>
+      <text>菜单2</text>
+    </view>
+    <view class="li">
+      <image src="/assets/images/index_icon3.png" mode="widthFix"></image>
+      <text>菜单3</text>
+    </view>
+    <view class="li">
+      <image src="/assets/images/index_icon4.png" mode="widthFix"></image>
+      <text>菜单4</text>
+    </view>
+    <view class="li">
+      <image src="/assets/images/index_icon5.png" mode="widthFix"></image>
+      <text>菜单5</text>
+    </view>
+    <view class="li">
+      <image src="/assets/images/index_icon6.png" mode="widthFix"></image>
+      <text>菜单6</text>
+    </view>
+    <view class="li">
+      <image src="/assets/images/index_icon7.png" mode="widthFix"></image>
+      <text>菜单7</text>
+    </view>
+    <view class="li">
+      <image src="/assets/images/index_icon8.png" mode="widthFix"></image>
+      <text>菜单8</text>
+    </view>
+    <view class="li">
+      <image src="/assets/images/index_icon9.png" mode="widthFix"></image>
+      <text>菜单9</text>
+    </view>
+  </view>
+</view>
